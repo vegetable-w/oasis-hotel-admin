@@ -37,3 +37,7 @@ This project is a web-based management application designed for **The World Oasi
 ### Backend & Database
 
 - **Supabase**
+
+## Web App Link
+
+You can access the Web App [here](https://oasis-hotel-admin.vercel.app/).
